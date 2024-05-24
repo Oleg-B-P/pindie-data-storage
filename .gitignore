@@ -1,0 +1,12 @@
+node_modules
+.DS_Store
+.vscode
+
+
+
+git init
+git add .
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/OlezhkaCoder/pindie-data-storage.git
+git push -u origin main
